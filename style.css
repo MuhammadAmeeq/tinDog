@@ -1,0 +1,102 @@
+header{
+    background-color: #f30d5a;
+    color: white;
+}
+nav > .container>a{
+    font-size: 40px;
+}
+nav li>a{
+    font-size: 20px;
+}
+
+.img{
+    width: 40%;
+    height: auto;
+    position: relative;
+    top: 40px;
+    left: 30px;
+}
+
+.sec1 > .container div{
+    text-align: center;
+}
+.sec1 > .container div i{
+    font-size: 60px;
+    color: rgb(184, 76, 57);
+}
+.sec1 > .container div i:hover{
+    color: #f30d5a;
+}
+
+.slider{
+    background-color: #f30d5a;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 40px 80px;
+}
+
+.carousel-item >p{
+    display: inline-block;
+    width: 75%;
+}
+.simg img{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+}
+
+.simg figcaption{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.slogo{
+    text-align: center;
+    background-color: #f30d5a;
+}
+.slogo img{
+    margin: 20px;
+    width: 15%;
+}
+
+.sec3{
+    text-align: center;
+}
+.sec3 p:first-child{
+    font-size: 35px;
+    font-weight: 900;
+    color: black;
+}
+.sec3>p{
+    color: grey;
+}
+.sec4{
+    background-color: #f30d5a;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+.sec4 h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 90px;
+}
+footer{
+    text-align: center;
+    justify-content: center;
+}
+footer div{
+    display: inline-block;
+}
+footer ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding-left: 0px;
+}
+footer ul li{
+    margin-right: 15px;
+    font-size: 20px;
+}
